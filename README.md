@@ -1,4 +1,3 @@
-# AI-Powered-FAQ-Chatbot-Portal
 # AI-Powered FAQ Chatbot Portal
 
 An intelligent full-stack FAQ chatbot web application that answers user queries using Google's Gemini AI API. The application provides real-time responses, stores chat history in MongoDB, and offers a responsive user-friendly interface built with React.
